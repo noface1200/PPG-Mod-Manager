@@ -5,3 +5,5 @@ Only Has The Ability To Display Information On Mods (thumbnail, name, descriptio
 
 
 ![image](https://github.com/user-attachments/assets/4fdc57a0-64b2-47e5-b403-7c32e9ebff49)
+
+note: yes this is my modlist and yes you should get these mods
