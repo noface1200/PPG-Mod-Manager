@@ -1,6 +1,8 @@
 # PPG-Mod-Manager
 Only Has The Ability To Display Information On Mods (thumbnail, name, description, game_version, mod_version) "may add delete/import mods in future"
 
+Find The Mod Folder By using selecting the "view local files" option on the context menu when right clicking on the game 
+
 ![image](https://github.com/user-attachments/assets/2eefbdfa-269e-462f-ab97-d0139f880efd)
 
 
