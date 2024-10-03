@@ -3,6 +3,8 @@ Only Has The Ability To Display Information On Mods (thumbnail, name, descriptio
 
 Find The Mod Folder By using selecting the "view local files" option on the context menu when right clicking on the game 
 
+run "pip install -r requirements.txt" to install the modules neeeded
+
 ![image](https://github.com/user-attachments/assets/2eefbdfa-269e-462f-ab97-d0139f880efd)
 
 
